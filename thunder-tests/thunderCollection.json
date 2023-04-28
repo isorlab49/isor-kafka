@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "7d21bc91-0b5d-4857-b30d-534b6788c58a",
+    "colName": "dictionary_test",
+    "created": "2023-03-06T13:27:04.898Z",
+    "sortNum": 10000,
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "options": {
+        "baseUrl": "localhost:1571"
+      }
+    }
+  }
+]
